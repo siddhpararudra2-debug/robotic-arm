@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Generated / build outputs
+urdf/*.urdf
+*.egg-info/
+.dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+search_err.log
+search_output.log

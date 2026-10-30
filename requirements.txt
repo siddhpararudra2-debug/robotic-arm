@@ -1,0 +1,7 @@
+# Stage 0 needs PyYAML.
+# numpy and matplotlib are used from Stage 2 and Stage 8 onward.
+# Stage 1 adds PyBullet as the physics engine.
+PyYAML>=6.0
+numpy>=1.26
+matplotlib>=3.8
+pybullet>=3.2.5
